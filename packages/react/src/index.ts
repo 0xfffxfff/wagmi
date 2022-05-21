@@ -5,6 +5,7 @@ export {
   Provider as WagmiProvider,
   useClient,
   useClient as useWagmiClient,
+  Context as WagmiContext,
 } from './context'
 export type {
   ClientConfig,

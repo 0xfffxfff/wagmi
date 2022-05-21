@@ -9,6 +9,7 @@ it('should expose correct exports', () => {
       "WagmiProvider",
       "useClient",
       "useWagmiClient",
+      "WagmiContext",
       "useAccount",
       "useBalance",
       "useBlockNumber",
